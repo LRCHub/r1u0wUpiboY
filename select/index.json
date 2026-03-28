@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "Always You",
+  "base_artist": "Louis Tomlinson",
+  "createdAt": "2026-03-28T09:20:11.040114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Always I Will Miss You. Always You.",
+      "artist": "Bike For Three!",
+      "has_synced": true,
+      "path": "select/01_Always_I_Will_Miss_You._Always_You._Bike_For_Three!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Always You",
+      "artist": "Chet Baker",
+      "has_synced": true,
+      "path": "select/02_It's_Always_You_Chet_Baker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It Was Always You",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/03_It_Was_Always_You_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Always You (Remastered)",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/04_It's_Always_You_(Remastered)_Chet_Baker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's Always You",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/05_It's_Always_You_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Always You",
+      "artist": "Schiller mit Anggun",
+      "has_synced": true,
+      "path": "select/06_Always_You_Schiller_mit_Anggun.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Always You",
+      "artist": "Anggun mit Shiller",
+      "has_synced": true,
+      "path": "select/07_Always_You_Anggun_mit_Shiller.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Always You",
+      "artist": "Jennifer Paige",
+      "has_synced": true,
+      "path": "select/08_Always_You_Jennifer_Paige.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Always You - Airplay Version",
+      "artist": "Schiller feat. Anggun",
+      "has_synced": true,
+      "path": "select/09_Always_You_-_Airplay_Version_Schiller_feat._Anggun.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Always You (Airplay Version)",
+      "artist": "Anggun mit Shiller",
+      "has_synced": true,
+      "path": "select/10_Always_You_(Airplay_Version)_Anggun_mit_Shiller.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Always You (Album Version)",
+      "artist": "Anggun mit Shiller",
+      "has_synced": true,
+      "path": "select/11_Always_You_(Album_Version)_Anggun_mit_Shiller.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Always You (Instrumental)",
+      "artist": "Anggun mit Shiller",
+      "has_synced": true,
+      "path": "select/12_Always_You_(Instrumental)_Anggun_mit_Shiller.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Always You (Remix)",
+      "artist": "Jennifer Paige",
+      "has_synced": false,
+      "path": "select/13_Always_You_(Remix)_Jennifer_Paige.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Always You (bonus remix)",
+      "artist": "Jennifer Paige",
+      "has_synced": false,
+      "path": "select/14_Always_You_(bonus_remix)_Jennifer_Paige.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Always You",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/15_Always_You_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Momma Always Told Me (Nancie Remix) [feat. Stanaj & Yung Bae]",
+      "artist": "Mike Posner",
+      "has_synced": false,
+      "path": "select/16_Momma_Always_Told_Me_(Nancie_Remix)_[feat._Stanaj_&_Yung_Bae]_Mike_Posner.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ain't Always The Cowboy",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/17_Ain't_Always_The_Cowboy_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Always Late (With Your Kisses)",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/18_Always_Late_(With_Your_Kisses)_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Always Something With You",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/19_Always_Something_With_You_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Always the Love Songs",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/20_Always_the_Love_Songs_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Always Wanting You",
+      "artist": "Merle Haggard & The Strangers",
+      "has_synced": true,
+      "path": "select/21_Always_Wanting_You_Merle_Haggard_&_The_Strangers.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Always on My Mind",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/22_Always_on_My_Mind_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Always on My Mind (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/23_Always_on_My_Mind_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Forever and for Always (Red Version)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/24_Forever_and_for_Always_(Red_Version)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/25_I_Will_Always_Love_You_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton & Vince Gill",
+      "has_synced": true,
+      "path": "select/26_I_Will_Always_Love_You_Dolly_Parton_&_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton and Vince Gill",
+      "has_synced": true,
+      "path": "select/27_I_Will_Always_Love_You_Dolly_Parton_and_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I Will Always Love You (from the Original Motion Picture Soundtrack Album, \"The Best Little Whorehouse In Texas\")",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/28_I_Will_Always_Love_You_(from_the_Original_Motion_Picture_Soundtrack_Album,__The__Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "I Will Always Love You - Original Version",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/29_I_Will_Always_Love_You_-_Original_Version_Dolly_Parton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Always You",
+      "artist": "Louis Tomlinson",
+      "has_synced": false,
+      "path": "select/pl_01_Always_You_Louis_Tomlinson.txt"
+    }
+  ]
+}
